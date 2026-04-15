@@ -3,3 +3,5 @@
 ---
 Creado por Katherine
 
+ - index.html: Página principal.
+
