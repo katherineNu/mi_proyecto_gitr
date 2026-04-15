@@ -6,3 +6,4 @@ Creado por Katherine
  - index.html: Página principal.
 
 CAMBIADO POR EL MASTER
+CAMBIADO EN DESARROLLO
