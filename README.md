@@ -8,3 +8,4 @@ Creado por Katherine
 CAMBIADO POR EL MASTER
 CAMBIADO EN DESARROLLO
 MODIFICADO DESDE REMOTO
+Modificado otra vez desde local
